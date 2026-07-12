@@ -535,7 +535,6 @@
 !fS
 !ft
 !Ft
-!FT
 !fT
 !fu
 !Fu
@@ -817,7 +816,6 @@
 !iU
 !iv
 !Iv
-!IV
 !iV
 !iw
 !Iw
